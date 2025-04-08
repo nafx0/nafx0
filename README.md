@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is Nafiul and I'm a MERN stack developer from Bangladesh</h2>
+<h2 align="left">Hi 👋! My name is Nafiul and I'm a MERN stack developer 💻🌐 from Bangladesh 🇧🇩</h2>
+
 
 ###
 
