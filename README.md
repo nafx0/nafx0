@@ -2,6 +2,10 @@
 <h3 align="center">🚀 MERN Stack Developer | AI/ML Enthusiast | CSE @ BRAC University</h3>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;AI%2FML+Learner;Open+Source+Contributor;Passionate+about+Clean+UI%2FUX" alt="Typing SVG" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=nafx0&label=Profile%20Views&color=0e75b6&style=flat" alt="nafx0" />
 </p>
 
@@ -9,9 +13,9 @@
 
 ### 💫 About Me
 - 🎓 **CSE student** at BRAC University (Batch 2024–2028)  
-- 💻 Passionate about **full-stack web development** using the **MERN stack**  
-- 🤖 Currently exploring **Artificial Intelligence & Machine Learning**  
-- 🧩 Love building **clean, responsive, and scalable** web applications  
+- 💻 Focused on **Full-Stack Web Development (MERN)**  
+- 🤖 Exploring **AI & Machine Learning** applications  
+- 🧩 Love crafting **clean, scalable, and interactive** user experiences  
 - 📫 Reach me at: **nafiulnafis@gmail.com**
 
 ---
@@ -44,9 +48,17 @@
 
 ---
 
-### 🏆 GitHub Highlights
+### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nafx0&theme=onedark&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nafx0&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafx0&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="165" />
+</p>
+
+---
+
+### 🏆 GitHub Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nafx0&theme=onedark&no-frame=true&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 </p>
 
 ---
