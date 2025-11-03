@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hi, I'm Nafiul Islam Nafis</h1>
-<h3 align="center">🚀 MERN Stack Developer | AI/ML Enthusiast | CSE @ BRAC University</h3>
+<h1 align="center">Hi, I'm Nafiul Islam Nafis</h1>
+<h3 align="center">MERN Stack Developer | AI/ML Enthusiast | CSE @ BRAC University</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;AI%2FML+Learner;Open+Source+Contributor;Passionate+about+Clean+UI%2FUX" alt="Typing SVG" />
@@ -11,7 +11,7 @@
 
 ---
 
-### 💫 About Me
+### About Me
 - 🎓 **CSE student** at BRAC University (Batch 2024–2028)  
 - 💻 Focused on **Full-Stack Web Development (MERN)**  
 - 🤖 Exploring **AI & Machine Learning** applications  
@@ -20,7 +20,7 @@
 
 ---
 
-### 🌐 Connect With Me
+### Connect With Me
 <p align="left">
   <a href="https://linkedin.com/in/nafiulnafis" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
