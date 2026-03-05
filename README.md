@@ -62,22 +62,6 @@ Explore my projects, development work, and experiments in modern web technologie
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,sass,js,ts,react,nextjs,nodejs,express,mongodb,firebase,java,git,figma"/>
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nafx0&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafx0&layout=compact&theme=github_dark&hide_border=true" height="165"/>
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nafx0&theme=onedark&no-frame=true&margin-w=10&margin-h=10"/>
-</p>
 
 ---
 
