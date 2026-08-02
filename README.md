@@ -19,7 +19,7 @@
 
 ## 🚀 Portfolio
 
-Explore my projects, development work, and experiments in modern web technologies at https://nafiulnafis.me"
+Explore my projects, development work, and experiments in modern web technologies at https://nafiulnafis.me
 
 ---
 
