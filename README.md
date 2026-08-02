@@ -18,10 +18,8 @@
 ---
 
 ## 🚀 Portfolio
-🔗 **Live Website:**  
-https://nafxdev.vercel.app/
 
-Explore my projects, development work, and experiments in modern web technologies.
+Explore my projects, development work, and experiments in modern web technologies at nafiulnafis.me
 
 ---
 
