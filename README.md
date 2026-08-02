@@ -2,7 +2,7 @@
 <h3 align="center">MERN Stack Developer | AI/ML Enthusiast | CSE @ BRAC University</h3>
 
 <p align="center">
-  <a href="https://nafxdev.vercel.app/" target="_blank">
+  <a href="https://nafiulnafis.me" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
@@ -19,7 +19,7 @@
 
 ## 🚀 Portfolio
 
-Explore my projects, development work, and experiments in modern web technologies at nafiulnafis.me
+Explore my projects, development work, and experiments in modern web technologies at https://nafiulnafis.me"
 
 ---
 
