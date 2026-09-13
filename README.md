@@ -83,10 +83,14 @@ mindmap
 
 <br/>
 
-## GitHub Streak
+## Contribution Snake
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=nafx0&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+<!--START_SECTION:snake-->
+<img src="https://raw.githubusercontent.com/nafx0/nafx0/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation"/>
+<!--END_SECTION:snake-->
+
 </div>
 
 <br/>
