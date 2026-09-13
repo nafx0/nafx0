@@ -1,40 +1,84 @@
-<h1 align="center">Hi, I'm Nafiul Islam Nafis</h1>
-<h3 align="center">MERN Stack Developer | AI/ML Enthusiast | CSE @ BRAC University</h3>
+<div align="center">
 
-<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Nafiul%20Islam%20Nafis&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20CSE%20@%20BRAC%20University&descAlignY=58&descSize=18"/>
+
+<p>
   <a href="https://nafiulnafis.me" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-nafiulnafis.me-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:nafiulnafis@gmail.com">
+    <img src="https://img.shields.io/badge/Email-nafiulnafis@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;AI%2FML+Learner;Open+Source+Contributor;Passionate+about+Clean+UI%2FUX"/>
-</p>
+<img src="https://komarev.com/ghpvc/?username=nafx0&label=Profile%20Views&color=2c5364&style=for-the-badge" alt="Profile views"/>
+
+</div>
+
+<br/>
+
+## About Me
+
+```yaml
+name: Nafiul Islam Nafis
+role: CSE Undergraduate @ BRAC University (2024 – 2028)
+focus: Full-Stack Web Development (MERN)
+exploring: Artificial Intelligence & Machine Learning
+values: [clean UI/UX, performance, scalable architecture]
+```
+
+- 🎓 Studying Computer Science & Engineering at **BRAC University**
+- 💻 Building full-stack apps with the **MERN** stack
+- 🤖 Learning **AI/ML** and how to bring it into real products
+- 🧩 Care about clean design, fast apps, and code that scales
+- 📫 Reach me at **nafiulnafis@gmail.com**
+
+<br/>
+
+## Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,sass,js,ts,react,nextjs,nodejs,express,mongodb,firebase,java,figma,git,github,vercel&perline=9"/>
+
+</div>
+
+<br/>
+
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nafx0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=nafx0&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafx0&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nafx0&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph" width="95%"/>
+</div>
+
+<br/>
+
+## Contribution Snake
+
+<div align="center">
+
+<!--START_SECTION:snake-->
+<img src="https://raw.githubusercontent.com/nafx0/nafx0/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation"/>
+<!--END_SECTION:snake-->
+
+</div>
+
+> **Note:** the snake above only renders once the GitHub Action in `.github/workflows/snake.yml` runs on your `nafx0/nafx0` repo — see setup notes below.
+
+<br/>
+
+## Connect With Me
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nafx0&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
-
----
-
-## 🚀 Portfolio
-
-Explore my projects, development work, and experiments in modern web technologies at https://nafiulnafis.me
-
----
-
-## 👨‍💻 About Me
-- 🎓 CSE student at **BRAC University (2024–2028)**
-- 💻 Focused on **Full-Stack Web Development (MERN)**
-- 🤖 Exploring **AI & Machine Learning applications**
-- 🧩 Interested in **clean UI, performance, and scalable architecture**
-- 📫 Email: **nafiulnafis@gmail.com**
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
   <a href="https://linkedin.com/in/nafiulnafis" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -42,7 +86,7 @@ Explore my projects, development work, and experiments in modern web technologie
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://www.hackerrank.com/nafiulnafis" target="_blank">
-    <img src="https://img.shields.io/badge/Hackerrank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
   <a href="https://codeforces.com/profile/nafx" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
@@ -52,17 +96,4 @@ Explore my projects, development work, and experiments in modern web technologie
   </a>
 </p>
 
----
-
-## 🛠 Languages & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,sass,js,ts,react,nextjs,nodejs,express,mongodb,firebase,java,git,figma"/>
-</p>
-
-
----
-
-<p align="center">
-⚡ Building modern web experiences, one project at a time.
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0f2027&height=100&section=footer"/>
