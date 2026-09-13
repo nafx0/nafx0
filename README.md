@@ -48,31 +48,46 @@ values: [clean UI/UX, performance, scalable architecture]
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nafx0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=nafx0&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=nafx0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafx0&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nafx0&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph" width="95%"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=nafx0&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 </div>
 
 <br/>
 
-## Contribution Snake
+## Where My Focus Is
+
+```mermaid
+mindmap
+  root((Nafiul))
+    Web Dev
+      React
+      Next.js
+      Node / Express
+      MongoDB
+    AI / ML
+      Learning fundamentals
+      Applying ML to real apps
+    CS Fundamentals
+      Data Structures
+      Algorithms
+    Craft
+      Clean UI/UX
+      Performance
+      Scalable architecture
+```
+
+*(GitHub renders this diagram natively — no external service, nothing to set up.)*
+
+<br/>
+
+## GitHub Streak
 
 <div align="center">
-
-<!--START_SECTION:snake-->
-<img src="https://raw.githubusercontent.com/nafx0/nafx0/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation"/>
-<!--END_SECTION:snake-->
-
+  <img src="https://streak-stats.demolab.com?user=nafx0&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
-
-> **Note:** the snake above only renders once the GitHub Action in `.github/workflows/snake.yml` runs on your `nafx0/nafx0` repo — see setup notes below.
 
 <br/>
 
